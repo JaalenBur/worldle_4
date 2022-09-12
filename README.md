@@ -1,6 +1,6 @@
 # Android Project 1 - Wordle 4
 
-Submitted by: **Your Name Here**
+Submitted by: Jaalen Burton
 
 Wordle 4 is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html).
 
